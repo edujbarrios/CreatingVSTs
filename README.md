@@ -1,4 +1,4 @@
 # CreatingVSTs
 In this repositories I will be creating VST's implementations of diverse programming languages
 
-API implementation with Ableton Live is yet to be implemented, by now these codes are working without any DAW integration
+Includes extra stuff about musical related platforms and how to manage and get some info with their respective API?s
